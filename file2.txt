@@ -1,0 +1,5 @@
+ devops
+ azure
+ git
+ gcp
+ virtual machine
